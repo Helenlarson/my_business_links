@@ -1,5 +1,7 @@
 # 📌 My Business Links
 
+![Read me capa](https://github.com/user-attachments/assets/bf4d238d-588f-435f-b26e-12c5f48706f2)
+
 This is a project developed with **HTML and CSS** during the **Alura courses**. It showcases information about my business, my professional experience, and links to my social media profiles.
 
 ## 🚀 Technologies Used  
